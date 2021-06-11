@@ -1,0 +1,6 @@
+@import 'esri/css/main.css';
+
+.map-view {
+  width: 640px;
+  height: 480px;
+}
